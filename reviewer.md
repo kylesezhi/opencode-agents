@@ -102,7 +102,6 @@ Consider:
 - Are important behaviors tested?
 - Are failure cases tested?
 - Are edge cases tested?
-- Are tests meaningful rather than merely exercising code?
 - Are existing tests still appropriate?
 - Should unit tests be added?
 - Should integration or E2E tests be added?
@@ -259,10 +258,6 @@ Brief assessment of the implementation.
 List findings in descending severity.
 
 If there are no findings, explicitly state that no blocking or important issues were identified.
-
-### Tests
-
-List tests you ran and their results.
 
 ### Recommendation
 

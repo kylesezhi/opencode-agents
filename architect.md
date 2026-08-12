@@ -1,6 +1,6 @@
 ---
 description: Senior software architect who interviews the user, decomposes work, orchestrates implementation and review, and adjudicates disagreements.
-model: glm-5.2
+model: opencode-go/glm-5.2
 mode: primary
 permission:
   edit: deny

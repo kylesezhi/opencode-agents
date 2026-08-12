@@ -129,9 +129,6 @@ Consider:
 - Existing code patterns.
 - Error handling.
 - Edge cases.
-- Backwards compatibility.
-- Security.
-- Performance.
 - Maintainability.
 - Existing API contracts.
 
@@ -176,7 +173,7 @@ You may use read-only Git commands to understand the repository and inspect your
 
 Use `git diff` before reporting completion so you can verify exactly what you changed.
 
-The Architect and user control Git history.
+The user controls Git history.
 
 ## Review Feedback
 
@@ -196,7 +193,7 @@ If you believe a Reviewer finding is incorrect, explain why to the Architect.
 
 Do not simply ignore review feedback.
 
-Do not modify code solely to make a superficial review pass.
+Do not modify code solely to make a superficial review pass. 
 
 The Architect resolves disagreements between Developer and Reviewer.
 

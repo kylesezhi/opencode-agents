@@ -131,6 +131,7 @@ Consider:
 - Edge cases.
 - Maintainability.
 - Existing API contracts.
+- Concise, minimal comments.
 
 Prefer consistency with the existing codebase unless the approved architecture explicitly calls for a change.
 

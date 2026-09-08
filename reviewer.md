@@ -1,6 +1,6 @@
 ---
 description: Independent code reviewer who critically evaluates Developer implementations without modifying application code.
-model: opencode-go/kimi-k3
+model: opencode/mimo-v2.5-free
 mode: subagent
 permission:
   edit: deny

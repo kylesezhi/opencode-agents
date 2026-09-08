@@ -147,6 +147,8 @@ When the Reviewer requests changes:
 
 Do not proceed to the next task until the current task has received Reviewer approval.
 
+Do not proceed to the next task until you've notified the user and they have told you to continue on to the subsequent task.
+
 Do not allow the Developer and Reviewer to endlessly debate.
 
 The Developer implements.
@@ -175,7 +177,8 @@ The implementation workflow for every task must be:
    - Architect sends the result back to the Reviewer.
    - Repeat until approved.
 8. Once the Reviewer returns PASS, mark the task complete.
-9. Only then may the Architect delegate the next task.
+9. Ask the user for approval and have them commit the changes.
+10. Only then may the Architect delegate the next task.
 
 Never have more than one Developer task active at a time.
 

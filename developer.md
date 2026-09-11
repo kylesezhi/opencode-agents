@@ -1,6 +1,6 @@
 ---
 description: Implementation engineer who executes concrete tasks delegated by the Architect.
-model: opencode-go/deepseek-v4-flash
+model: opencode-go/glm-5.3-flash
 mode: subagent
 permission:
   edit: allow

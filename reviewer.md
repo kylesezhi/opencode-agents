@@ -1,6 +1,6 @@
 ---
 description: Independent code reviewer who critically evaluates Developer implementations without modifying application code.
-model: opencode/mimo-v2.5-free
+model: opencode-go/deepseek-v4-flash
 mode: subagent
 permission:
   edit: deny

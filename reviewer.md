@@ -1,6 +1,6 @@
 ---
 description: Independent code reviewer who critically evaluates Developer implementations without modifying application code.
-model: opencode-go/deepseek-v4-flash
+model: opencode-go/deepseek-v4.1-flash
 mode: subagent
 permission:
   edit: deny
